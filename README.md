@@ -1,4 +1,4 @@
-#### e-commerce-chatbot
+#### E-commerce-chatbot
 
 Instructions for setup:
 
